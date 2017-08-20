@@ -37,9 +37,13 @@ DoctoBuyer : This enumeration takes a value of "Pending" or "Done" based on whet
 # Usage
 
 Refer to the Hyperledger Development Tutorial (https://hyperledger.github.io/composer/installing/development-tools.html) to download the installation tools
+
 Clone the repository
+
 Refer to the Hyperledger Developer Guide (https://hyperledger.github.io/composer/tutorials/developer-guide.html)
+
 Use the command (composer network deploy -a my-network.bna -p hlfv1 -i PeerAdmin -s randomString) after switching to the directory with the BNA file.
+
 Follow the guide to generate the REST API and Angular application.
 
 # References
